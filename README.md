@@ -4,5 +4,5 @@ A simple command to fix vehicles.
 
 Dependencies:
 
-mythic_notify
+mythic_notify <br>
 oxmysql
